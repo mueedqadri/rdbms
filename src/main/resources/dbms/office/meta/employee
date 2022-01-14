@@ -1,0 +1,4 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+name|varchar(50)|false|true|false|null|null|0
+id|int|true|true|true|null|null|1
+address|text|false|true|false|null|null|2

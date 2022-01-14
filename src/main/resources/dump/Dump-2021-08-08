@@ -1,0 +1,7 @@
+CREATE DATABASE school;
+CREATE TABLE student ();
+CREATE TABLE teacher (teachername text pk , id int pk nn ai );
+INSERT INTO teacher VALUES(mueed,1 );
+INSERT INTO teacher VALUES(teacher1,2 );
+INSERT INTO teacher VALUES(teacher2,3 );
+INSERT INTO teacher VALUES(teacher3,4 );

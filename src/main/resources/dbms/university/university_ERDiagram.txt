@@ -1,0 +1,43 @@
+* new
+
+Relations : 
+new-1-----------1-Orders
+
+Foreign Keys : 
+
+Columns : 
+id (int) (Primary Key)
+LastName (text)
+FirstName (varchar(255))
+Address (varchar(255))
+salary (float)
+_____________________________________________________________________
+* Orders
+
+Relations : 
+Orders-1-----------1-new
+Orders-N-----------1-Persons
+
+Foreign Keys : 
+OrderID ---------------> new (id)
+PersonID ---------------> Persons (PersonID)
+
+Columns : 
+OrderID (int) (Primary Key)
+OrderNumber (int)
+PersonID (int)
+_____________________________________________________________________
+* Persons
+
+Relations : 
+Persons-1-----------N-Orders
+
+Foreign Keys : 
+
+Columns : 
+PersonID (int) (Primary Key)
+LastName (varchar(255))
+FirstName (varchar(255))
+Address (varchar(255))
+City (varchar(255))
+_____________________________________________________________________

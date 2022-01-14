@@ -1,0 +1,4 @@
+CREATE DATABASE testing2;
+CREATE TABLE new (id int pk nn ai , LastName varchar(40) , FirstName text , Address varchar(255) nn , pay int , MiddleName varchar(40) );
+INSERT INTO new (idx,id,LastName,FirstName,Address,pay,MiddleName) VALUES(1,for,Geeks,Geeks,Geeks,Geeks,  );
+INSERT INTO new (idx,id,LastName,FirstName,Address,pay,MiddleName) VALUES(2,for,Geeks,Geeks,Geeks,Geeks,  );

@@ -1,0 +1,6 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+PersonID|int|true|true|true|null|null|0
+LastName|varchar(255)|false|false|false|null|null|1
+FirstName|varchar(255)|false|false|false|null|null|2
+Address|varchar(255)|false|false|false|null|null|3
+City|varchar(255)|false|false|false|null|null|4

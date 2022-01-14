@@ -1,0 +1,7 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+id|int|true|true|true| | |0
+LastName|varchar(40)|false|false|false| | |1
+FirstName|text|false|false|false| | |2
+Address|varchar(255)|false|true|false| | |3
+pay|int|false|false|false| | |4
+MiddleName|varchar(40)|false|false|false| | |5

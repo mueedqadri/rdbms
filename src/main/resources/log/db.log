@@ -1,0 +1,760 @@
+Aug 02, 2021 6:35:04 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 02, 2021 6:42:20 PM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 02, 2021 6:45:46 PM com.dbms.log.DBLogger logError
+SEVERE: Exception with cause null and message Cannot invoke "com.dbms.data.dictionary.MetaDataTable.getTableMetaData()" because "metaDataForTable" is null
+Aug 02, 2021 6:48:38 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist.
+Aug 02, 2021 6:51:06 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist.
+Aug 02, 2021 6:53:56 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist.
+Aug 03, 2021 6:20:02 AM com.dbms.log.DBLogger logInfo
+INFO: select query executed successfully.
+Aug 03, 2021 6:53:45 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 6:53:45 AM com.dbms.log.DBLogger logInfo
+INFO: 0 query executed successfully.
+Aug 03, 2021 6:56:21 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 6:56:21 AM com.dbms.log.DBLogger logInfo
+INFO: create query executed successfully.
+Aug 03, 2021 7:41:48 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 7:48:14 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 7:53:27 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 7:54:50 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 7:58:17 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 8:11:05 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "String.isEmpty()" because "com.dbms.data.dictionary.Database.name" is null
+Aug 03, 2021 8:12:22 AM com.dbms.log.DBLogger logInfo
+INFO: select query executed successfully.
+Aug 03, 2021 8:17:41 AM com.dbms.log.DBLogger logError
+SEVERE: You are no authorized access the database.
+Aug 03, 2021 8:18:17 AM com.dbms.log.DBLogger logError
+SEVERE: You are no authorized access the database.
+Aug 03, 2021 8:18:52 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 8:26:42 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 8:27:57 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 8:30:23 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 8:31:48 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:36:26 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 8:37:39 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:38:23 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:38:30 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:39:12 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:39:23 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:39:33 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:41:21 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 8:41:29 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:41:48 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:42:10 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:44:17 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 8:45:00 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:45:10 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:56:44 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 8:58:17 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:02:52 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:07:25 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:07:51 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:08:39 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:09:41 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:11:03 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:13:05 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:16:23 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:17:53 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:18:48 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:21:37 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:23:58 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:29:52 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:29:52 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 03, 2021 9:30:44 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:31:04 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 03, 2021 9:31:10 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:31:59 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 03, 2021 9:32:16 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:33:23 AM com.dbms.log.DBLogger logInfo
+INFO: Table altered successfully
+Aug 03, 2021 9:35:03 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:35:55 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:37:27 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:37:27 AM com.dbms.log.DBLogger logInfo
+INFO: Table altered successfully
+Aug 03, 2021 9:39:05 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:39:05 AM com.dbms.log.DBLogger logInfo
+INFO: Table altered successfully
+Aug 03, 2021 9:47:08 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:47:08 AM com.dbms.log.DBLogger logInfo
+INFO: Table altered successfully
+Aug 03, 2021 9:48:26 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:48:26 AM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 03, 2021 9:48:26 AM com.dbms.log.DBLogger logInfo
+INFO: Table altered successfully
+Aug 03, 2021 9:49:38 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:51:14 AM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 03, 2021 9:52:05 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:52:05 AM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 03, 2021 9:52:25 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:53:09 AM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 03, 2021 9:53:13 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:53:42 AM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 03, 2021 9:53:53 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:54:20 AM com.dbms.log.DBLogger logInfo
+INFO: mynewDb has been selected
+Aug 03, 2021 9:57:55 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 9:58:25 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:58:46 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:59:58 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:00:49 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:02:43 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:02:55 AM com.dbms.log.DBLogger logError
+SEVERE: Cannot invoke "com.dbms.model.TableMetaDataModel.getOrder()" because the return value of "java.util.Map.get(Object)" is null
+Aug 03, 2021 10:29:42 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 10:48:18 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 10:51:39 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:13:55 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:14:38 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:46:37 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:47:23 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:49:27 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:51:11 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:51:57 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:53:19 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:55:56 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:56:38 AM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 11:58:09 AM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 11:58:51 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 12:00:42 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:02:08 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:02:30 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:02:52 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:03:49 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:04:11 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:32:05 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:35:27 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:37:28 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 12:38:21 PM com.dbms.log.DBLogger logError
+SEVERE: For input string: "create table student (name text nn, age int nn, school text nn);"
+Aug 03, 2021 12:39:30 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 12:39:41 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:40:55 PM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 12:50:43 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 12:50:50 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 12:51:44 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 12:52:21 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 12:53:23 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 12:54:19 PM com.dbms.log.DBLogger logInfo
+INFO: Rolled back 
+Aug 03, 2021 1:00:17 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 1:00:26 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 1:01:56 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 1:03:30 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 1:03:46 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 1:04:35 PM com.dbms.log.DBLogger logInfo
+INFO: Rolled back 
+Aug 03, 2021 1:04:42 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist.
+Aug 03, 2021 2:08:30 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 2:37:58 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:37:58 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:43:56 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:43:56 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:44:49 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:44:49 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:45:13 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:45:13 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:45:37 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:45:38 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:45:59 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:45:59 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:46:35 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:46:35 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:46:53 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:46:53 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:47:30 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:47:30 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:48:00 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:48:00 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 2:49:12 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 2:49:12 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:03:52 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 3:06:49 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 3:07:41 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 3:08:49 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 3:16:31 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:16:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:16:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:18:33 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:18:38 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:19:05 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:19:05 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:19:06 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:19:51 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:21:49 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:21:49 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:21:49 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:22:19 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:22:19 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:22:19 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:22:19 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:22:19 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:24:18 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:24:18 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:24:18 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:24:18 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:24:18 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:26:12 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 3:26:37 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:27:29 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:28:27 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:30:25 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:31:14 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:31:14 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:31:14 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:31:14 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:31:14 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 3:32:44 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:34:23 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:34:23 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:34:23 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:34:30 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:34:45 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 3:34:45 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:35:18 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:35:18 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:35:18 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:35:18 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:35:43 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 3:36:19 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:36:19 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 3:36:19 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:36:19 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 3:36:27 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 4:16:06 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:16:06 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:16:06 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 4:16:06 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 4:16:06 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 4:47:30 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:47:30 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:47:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 4:47:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 4:47:31 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 03, 2021 4:47:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 4:47:31 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 4:48:56 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:50:22 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 4:55:08 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 4:58:00 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 4:58:10 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:00:01 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:00:10 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:04:53 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:05:32 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:06:18 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:06:38 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:09:08 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:09:21 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:13:26 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:13:34 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:17:01 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 03, 2021 5:17:46 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 5:18:44 PM com.dbms.log.DBLogger logInfo
+INFO: Rolled back 
+Aug 03, 2021 9:29:01 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 9:29:10 AM com.dbms.log.DBLogger logError
+SEVERE: You are no authorized access the database.
+Aug 03, 2021 9:31:15 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:31:42 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:32:58 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:33:56 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:34:12 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:34:23 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:34:41 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:36:39 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:37:58 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:38:50 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:39:03 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:39:56 AM com.dbms.log.DBLogger logError
+SEVERE: FK value can't be null
+Aug 03, 2021 9:42:22 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:43:38 AM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 9:46:06 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:47:37 AM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 9:48:11 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:49:48 AM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 9:53:04 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:54:32 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 9:58:37 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 9:59:53 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid value for FK
+Aug 03, 2021 10:02:30 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:03:57 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid value for FK
+Aug 03, 2021 10:04:48 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 03, 2021 10:04:59 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:08:13 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:16:50 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:18:09 AM com.dbms.log.DBLogger logError
+SEVERE: null
+Aug 03, 2021 10:18:54 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:19:02 AM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 10:19:30 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:19:39 AM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 10:24:57 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:29:39 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:30:36 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:33:47 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:37:42 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 03, 2021 10:39:53 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid column name specified
+Aug 03, 2021 10:39:53 AM com.dbms.log.DBLogger logError
+SEVERE: Index 0 out of bounds for length 0
+Aug 03, 2021 10:40:36 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 03, 2021 10:43:12 AM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 10:45:44 AM com.dbms.log.DBLogger logInfo
+INFO: Rolled back 
+Aug 03, 2021 10:46:15 AM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 03, 2021 10:47:11 AM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 
+Aug 03, 2021 10:48:44 AM com.dbms.log.DBLogger logError
+SEVERE: Invalid value for FK
+Aug 03, 2021 10:50:54 AM com.dbms.log.DBLogger logInfo
+INFO: university has been selected
+Aug 08, 2021 8:19:20 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 8:20:26 PM com.dbms.log.DBLogger logInfo
+INFO: dataDb has been selected
+Aug 08, 2021 8:21:15 PM com.dbms.log.DBLogger logError
+SEVERE: You are no authorized access the database.
+Aug 08, 2021 8:23:11 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 8:27:56 PM com.dbms.log.DBLogger logInfo
+INFO: office has been selected
+Aug 08, 2021 8:29:24 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 8:30:22 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 8:30:32 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 8:30:58 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 8:46:17 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 08, 2021 8:46:42 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 08, 2021 8:46:57 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 08, 2021 8:55:41 PM com.dbms.log.DBLogger logError
+SEVERE: Column does not exists.
+Aug 08, 2021 8:57:02 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 8:57:12 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 8:57:20 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 8:57:40 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 9:05:11 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:06:56 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:08:20 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 08, 2021 9:08:25 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:10:27 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:10:57 PM com.dbms.log.DBLogger logError
+SEVERE: Alter operation not supported.
+Aug 08, 2021 9:12:22 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query
+Aug 08, 2021 9:16:56 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:28:08 PM com.dbms.log.DBLogger logError
+SEVERE: No database has been selected 
+Aug 08, 2021 9:29:26 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:29:39 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist
+Aug 08, 2021 9:29:39 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 08, 2021 9:30:12 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 08, 2021 9:32:00 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:33:14 PM com.dbms.log.DBLogger logError
+SEVERE: No database has been selected 
+Aug 08, 2021 9:33:14 PM com.dbms.log.DBLogger logInfo
+INFO: Drop successful 
+Aug 08, 2021 9:34:19 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:34:25 PM com.dbms.log.DBLogger logInfo
+INFO: Drop successful 
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logInfo
+INFO: Drop successful 
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:35:31 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop school
+Aug 08, 2021 9:38:04 PM com.dbms.log.DBLogger logInfo
+INFO: school has been selected
+Aug 08, 2021 9:38:15 PM com.dbms.log.DBLogger logInfo
+INFO: Drop successful 
+Aug 08, 2021 9:40:00 PM com.dbms.log.DBLogger logError
+SEVERE: You are not authorized to drop dataDb
+Aug 08, 2021 9:45:48 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid syntax
+Aug 08, 2021 9:45:53 PM com.dbms.log.DBLogger logInfo
+INFO: office has been selected
+Aug 08, 2021 9:47:03 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 08, 2021 9:47:43 PM com.dbms.log.DBLogger logError
+SEVERE: Table does not exist.
+Aug 08, 2021 9:48:25 PM com.dbms.log.DBLogger logInfo
+INFO: office has been selected
+Aug 08, 2021 9:48:36 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 08, 2021 9:49:29 PM com.dbms.log.DBLogger logError
+SEVERE: Invalid Query.
+Aug 08, 2021 9:50:09 PM com.dbms.log.DBLogger logInfo
+INFO: Rolled back 
+Aug 08, 2021 10:34:09 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction Started
+Aug 08, 2021 10:34:33 PM com.dbms.log.DBLogger logInfo
+INFO: Transaction committed successfully 

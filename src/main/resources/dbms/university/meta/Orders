@@ -1,0 +1,4 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+OrderID|int|true|true|false|null|null|0
+OrderNumber|int|false|true|false|null|null|1
+PersonID|int|false|false|false|Persons|PersonID|2

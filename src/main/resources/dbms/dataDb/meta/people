@@ -1,0 +1,4 @@
+colName|colType|pk|nn|ai|fkTable|fkColumn|order
+newname|text|false|true|false| | |0
+id|int|true|true|true| | |1
+age|int|false|false|false| | |2
